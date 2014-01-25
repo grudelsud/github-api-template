@@ -1,21 +1,21 @@
 {
 	"technologies": {
 		"apis": [
-			"insert api",
-			"insert api"
+			"blueberry",
+			"raspberry"
 		],
 		"platforms": [
-			"insert platform",
-			"insert platform"
+			"higher",
+			"lower"
 		],
 		"libraries": [
-			"insert library",
-			"insert library"
+			"british",
+			"islington"
 		]
 	},
 	"themes": [
-		"insert theme",
-		"insert theme"
+		"fog",
+		"snow"
 	]
 }
 
