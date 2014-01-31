@@ -3,13 +3,13 @@
 		"apis": [
 			"google good stuff",
 			"google average stuff",
-			"christmas api"
+			"yoda api"
 		],
 		"platforms": [
-			"high heels",
+			"bbq",
 			"wtplatform"
 		],
-		"libraries": [
+		"toolkits": [
 			"british library",
 			"islington public library"
 		]
